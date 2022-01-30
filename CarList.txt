@@ -1,0 +1,79 @@
+Sedan
+Acura RLX
+54900
+
+Sedan
+BMW 430 Gran Coupe
+44700
+
+Sedan
+BMW 440 Gran Coupe
+51600
+
+Sedan
+Buick Regal Sportback
+25500
+
+Sedan
+Ford Fusion
+24100
+
+Sedan
+Chevrolet Malibu
+22000
+
+Pickup Truck
+Chevrolet Colorado
+20000
+
+Pickup Truck
+Ford F-150
+30500
+
+Pickup Truck
+Ram 1500 Classic
+30500
+
+Pickup Truck
+Toyota Tacoma
+25600
+
+Pickup Truck
+Nissan Frontier
+28400
+
+Minivan
+Chrysler Voyager
+25000
+
+Minivan
+Toyota Sienna
+35000
+
+Minivan
+Honda Odyssey
+33500
+
+SUV
+Hyundai Tucson
+26000
+
+SUV
+Toyota RAV4 Prime
+39500
+
+SUV
+Nissan Pathfinder
+34000
+
+SUV
+Ford Escape
+26500
+
+Sports Car
+Chevy Camero
+40000
+
+Sports Car
+Audi R8
+148500
